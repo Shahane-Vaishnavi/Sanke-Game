@@ -62,6 +62,16 @@ snake-game/
 
 ---
 
+## 🔮 Future Enhancements
+
+- ⏩ Increasing difficulty (speed-up)
+- 🎵 Sound effects
+- 💾 High-score saving (localStorage)
+- 📱 Mobile touch controls
+- 🎨 Skins & themes
+
+---
+
 ## 🧑‍💻 Author
 
 **Vaishnavi Shahane (vaish_200)**  
